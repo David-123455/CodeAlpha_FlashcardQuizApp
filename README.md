@@ -16,10 +16,10 @@ A Flashcard Quiz App to help users study by creating and reviewing flashcards. U
 [Video walkthrough link]
 
 ## 💻 How to Use
-1. Clone the repo
+1. Clone the report
 2. Open `index.html` in browser
 3. Add flashcards and start the quiz
 
 ## 🔗 GitHub Repository
-[https://github.com/yourusername/CodeAlpha_FlashcardQuizApp](#)
+[https://github.com/David-123455/CodeAlpha_FlashcardQuizApp](#)
 
